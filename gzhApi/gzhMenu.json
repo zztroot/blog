@@ -1,0 +1,14 @@
+{
+  "button": [
+    {
+      "type": "click",
+      "name": "饿了么红包",
+      "key": "01_ELM"
+    },
+    {
+      "type": "click",
+      "name": "美团红包",
+      "key": "02_MT"
+    }
+  ]
+}
